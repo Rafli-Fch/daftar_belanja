@@ -28,7 +28,7 @@ class _ShoppingListScreenState extends State<ShoppingListScreen> {
                   child: TextField(
                     controller: _controller,
                     decoration: const InputDecoration(
-                      hintText: 'Masukkan nama barang',
+                      hintText: 'Masukkan nama barang1',
                     ),
                   ),
                 ),
